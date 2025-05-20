@@ -25,5 +25,5 @@ void Servo_SetAngle(float Angle)
     
     /* 计算脉宽：pulse = (Angle/180)*2000 + 500 */
     uint16_t pulseWidth = (uint16_t)((Angle / 180.0f) * 2000.0f + 500.0f);
-    PWM_SetCompare2(pulseWidth);
+    PWM_SetCompare3(pulseWidth);
 }

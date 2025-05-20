@@ -1,0 +1,12 @@
+【讲解2024新版本OneNet云平台MQTT协议的使用(讲解设备上云以及可视化页面设计)】 https://www.bilibili.com/video/BV12m421u7A5/?share_source=copy_web&vd_source=347136f3e32fe297fc17177194ce0a8b
+
+
+
+【手把手讲解华为云物联网云平台的使用以及应用侧的开发(2024最新版)】 https://www.bilibili.com/video/BV1mr421c75S/?share_source=copy_web&vd_source=347136f3e32fe297fc17177194ce0a8b
+
+
+【搭建自己的MQTT服务器、实现设备上云(Windows+EMQX)】 https://www.bilibili.com/video/BV1d84y1Q71X/?share_source=copy_web&vd_source=347136f3e32fe297fc17177194ce0a8b
+
+
+【在Linux下搭建私有的MQTT服务器完成设备开发(EMQX+Ubuntu)】 https://www.bilibili.com/video/BV1da4y1R7BN/?share_source=copy_web&vd_source=347136f3e32fe297fc17177194ce0a8b
+
